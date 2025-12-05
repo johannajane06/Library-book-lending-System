@@ -1,0 +1,4 @@
+StudentID|Name|BookID|DaysBorrowed
+P001|Amirul Irfan|B002|10
+P002|Elena Lee|B004|3
+P003|Natalie James|B005|5
