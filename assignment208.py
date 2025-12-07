@@ -1,5 +1,5 @@
-# Student ID: 123456
-# Student Name: SHASHA
+# Student ID: 2024216106
+# Student Name:Johanna Jane
 # Topic: Book Lending System
 
 # -------------------------------
@@ -406,4 +406,5 @@ def return_book():
 # Run Program
 # -------------------------------
 main_menu()
+
 
